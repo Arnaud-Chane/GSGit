@@ -1,5 +1,7 @@
-// Test for first CSS
+// This is script file
 
-* {
-  margin: 100px;
-}
+var msg = "Hello World";
+
+
+
+
